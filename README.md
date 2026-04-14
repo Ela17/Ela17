@@ -1,4 +1,4 @@
-<img width="1265" height="630" alt="image" src="https://github.com/user-attachments/assets/c2757440-5eba-41d8-a208-31198338eaf7" /># Ciao, sono Elena! ✨
+# Ciao, sono Elena! ✨
 
 Attualmente ricopro la posizione di Analyst presso **Deloitte** a Milano.
 
