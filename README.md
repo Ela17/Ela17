@@ -1,16 +1,20 @@
-## Hi there 👋
+<img width="1265" height="630" alt="image" src="https://github.com/user-attachments/assets/c2757440-5eba-41d8-a208-31198338eaf7" /># Ciao, sono Elena! ✨
 
-<!--
-**Ela17/Ela17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Attualmente ricopro la posizione di Analyst presso **Deloitte** a Milano.
 
-Here are some ideas to get you started:
+Sono laureata in Informatica all'Università di Torino. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mi appassiona costruire applicazioni web — dal frontend al backend.
+
+
+### 🛠 Tech Stack
+
+**Frontend:** React · Next.js · SvelteKit · Angular · HTML/CSS · TypeScript · Handlebars  
+**Backend:** Node.js · Express · Spring Boot · Python · Java  
+**Database:** PostgreSQL · MongoDB · Supabase · SQLite  
+**DevOps & Tools:** Docker · Git · Maven · Socket.IO · Swagger  
+**Linguaggi:** TypeScript · Java · Python · C
+
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://elenaderosas-dev.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elena-derosas-661104396)
