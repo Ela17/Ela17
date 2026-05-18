@@ -27,7 +27,8 @@ Specializzata nella creazione di applicazioni scalabili e robuste, il mio stack 
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Ela17&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Ela17&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ela17&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+<div align="left">
+  <img src="https://github-readme-stats.shion.dev/api?username=Ela17&theme=dark&hide_border=false&include_all_commits=true&count_private=true&hide_rank=true" height="165"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ela17&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8" height="165"/>
+   <img src="https://github-readme-stats.shion.dev/api?username=Ela17&theme=dark&hide_border=false&include_all_commits=true&count_private=true&hide=stars,commits,prs,issues,contribs&show_icons=false&rank_icon=default" height="165"/>
+</div>
