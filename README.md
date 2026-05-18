@@ -1,9 +1,11 @@
-# 💫 About Me:
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=700&lines=Ciao%2C+sono+Elena+%F0%9F%91%8B;Analyst+%40+Deloitte;Technology+%26+Transformation;Backend+Developer+e+Microservices+Enthusiast" alt="Typing SVG" />
+  </a>
+</div>
 
-Ciao, sono Elena! 
-Attualmente ricopro la posizione di **Analyst** presso **Deloitte** a Milano.
+🏢 Currently working with **Java Spring Boot** & **Angular** on microservices architecture.
 
-Specializzata nella creazione di applicazioni scalabili e robuste, il mio stack quotidiano attualmente si concentra sull'ecosistema **Java Spring Boot** e **Angular**, con un focus sull'architettura a microservizi e containerizzazione.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elena-derosas-661104396) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:elenaderosas99@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://elenaderosas-dev.vercel.app/)
@@ -13,22 +15,25 @@ Specializzata nella creazione di applicazioni scalabili e robuste, il mio stack 
 # 💻 Tech Stack
 
 ### 🏢 Professional Core (Deloitte Stack)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,angular,docker,kubernetes,postgres,mongodb&theme=dark)](https://skillicons.dev)
 
 ### 🌐 Frontend & Frameworks
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![SvelteKit](https://img.shields.io/badge/sveltekit-%23ff3e00.svg?style=for-the-badge&logo=svelte&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,svelte,tailwind,bootstrap,html,css,vite&theme=dark)](https://skillicons.dev)
 
 ### ⚙️ Backend, Languages & Databases
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%2300.svg?style=for-the-badge&logo=flask&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,dotnet,nodejs,express,flask,c,mysql,sqlite,supabase,prisma&theme=dark)](https://skillicons.dev)
 
 ### 📊 Data Science & Tools
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B)
+[![My Skills](https://skillicons.dev/icons?i=python,latex,git,github,postman,vercel,netlify,figma&theme=dark)](https://skillicons.dev)
 
 ---
 
 # 📊 GitHub Stats:
+
 <div align="left">
   <img src="https://github-readme-stats.shion.dev/api?username=Ela17&theme=dark&hide_border=false&include_all_commits=true&count_private=true&hide_rank=true" height="165"/>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ela17&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8" height="165"/>
-   <img src="https://github-readme-stats.shion.dev/api?username=Ela17&theme=dark&hide_border=false&include_all_commits=true&count_private=true&hide=stars,commits,prs,issues,contribs&show_icons=false&rank_icon=default" height="165"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=Ela17&theme=dark&hide_border=false&include_all_commits=true&count_private=true&hide=stars,commits,prs,issues,contribs" height="165"/>
 </div>
+
+> 📊 **GitHub Rank**: un punteggio sintetico calcolato da [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) basato su commits, PRs, stars, issues e contributi. La scala va da `C` a `S+` (top), pesata sui percentili globali di tutti gli utenti GitHub.
