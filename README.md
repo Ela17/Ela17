@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  🏢 Currently working with <b>Java Spring Boot</b> & <b>Angular</b> on microservices architecture.
+  🏢 Currently working with <b>Java Spring Boot on microservices architecture.
 </p>
 
 <p align="center">
