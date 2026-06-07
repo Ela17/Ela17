@@ -1,11 +1,13 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=700&lines=Ciao%2C+sono+Elena+%F0%9F%91%8B;Analyst+%40+Deloitte;Technology+%26+Transformation;Backend+Developer+e+Microservices+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=700&lines=Ciao%2C+sono+Elena+%F0%9F%91%8B;Analyst+%40+Deloitte;Functional+Analysis+%26+Transformation;Backend+Developer+e+Microservices+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
-  🏢 Currently working with <b>Java Spring Boot on microservices architecture.
+  🏢 Currently working as a <b>Functional Analyst</b> within the <b>Transformation Factory</b> of a major banking group.
+  <br>
+  ⚙️ Core focus: Bridging business requirements with technical execution on <b>Java Spring Boot microservices</b> architectures.
 </p>
 
 <p align="center">
@@ -24,9 +26,12 @@
 
 ## 💻 Tech Stack
 
+**Methodologies & Core Focus**
+`Functional Analysis` • `Requirement Engineering` • `Agile / Scrum` • `Business & IT Alignment` • `Software Architecture`
+
 **Professional Core (Deloitte Stack)**
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,angular,docker,kubernetes,postgres,mongodb&theme=dark" height="40" alt="Professional stack"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,docker,azure,postgres,mongodb&theme=dark" height="40" alt="Professional stack"/>
 </p>
 
 **Frontend & Frameworks**
