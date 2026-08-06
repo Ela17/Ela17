@@ -56,7 +56,5 @@
 <div align="left">
   <img src="https://github-readme-stats.shion.dev/api?username=Ela17&theme=dark&hide_border=false&include_all_commits=true&count_private=true&hide_rank=true" height="165"/>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ela17&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8" height="165"/>
-  <img src="https://github-readme-stats.shion.dev/api?username=Ela17&theme=dark&hide_border=false&include_all_commits=true&count_private=true&hide=stars,commits,prs,issues,contribs" height="165"/>
-</div>
 
 > 📊 **GitHub Rank**: punteggio sintetico calcolato da [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) basato su commits, PRs, stars, issues e contributi. La scala va da `C` a `S+` (top), pesata sui percentili globali di tutti gli utenti GitHub.
