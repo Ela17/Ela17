@@ -1,13 +1,14 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=700&lines=Ciao%2C+sono+Elena+%F0%9F%91%8B;Analyst+%40+Deloitte;Functional+Analysis+%26+Transformation;Backend+Developer+e+Microservices+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=700&lines=Ciao%2C+sono+Elena+%F0%9F%91%8B;Project+%26+Service+Management+Analyst;Banking+%E2%80%A2+UAT+%E2%80%A2+IT+Delivery;Backend+Developer+at+heart" alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
-  🏢 Currently working as a <b>Functional Analyst</b> within the <b>Transformation Factory</b> of a major banking group.
+  🏢 Currently working as <b>Project & Service Management Analyst</b> at <b>Crédit Agricole</b>.
   <br>
-  ⚙️ Core focus: Bridging business requirements with technical execution on <b>Java Spring Boot microservices</b> architectures.
+  I manage projects and IT services end-to-end, translating operational needs into clear requirements,
+  processes and documentation, and validating releases through User Acceptance Testing.
 </p>
 
 <p align="center">
@@ -24,12 +25,21 @@
 
 ---
 
+## 🎯 Core Focus
+
+- 📋 **Project & Service Management** — delivery tracking, agile ceremonies, service lifecycle
+- ✅ **UAT & Quality** — test scenarios, test execution, defect tracking, release sign-off
+- 🏦 **Banking domain** — corporate banking platforms, operational processes, user documentation
+- 🎓 **Technical background** — Computer Science graduate with full-stack experience: Java, C, Python,
+  JavaScript / TypeScript, relational and NoSQL databases, web development, Docker & DevOps, UX/UI design
+---
+
 ## 💻 Tech Stack
 
-**Methodologies & Core Focus**
-`Functional Analysis` • `Requirement Engineering` • `Agile / Scrum` • `Business & IT Alignment` • `Software Architecture`
+**Methodologies**
+`Project Management` • `IT Service Management` • `User Acceptance Testing` • `Functional Analysis` • `Requirement Engineering` • `Agile / Scrum` • `Business & IT Alignment`
 
-**Professional Core (Deloitte Stack)**
+**Professional Core**
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,angular,docker,azure,postgres,mongodb&theme=dark" height="40" alt="Professional stack"/>
 </p>
@@ -56,3 +66,4 @@
 <div align="left">
   <img src="https://github-readme-stats.shion.dev/api?username=Ela17&theme=dark&hide_border=false&include_all_commits=true&count_private=true&hide_rank=true" height="165"/>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ela17&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8" height="165"/>
+</div>
